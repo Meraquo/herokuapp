@@ -1,3 +1,3 @@
 # Applicazione Flask configurata su Heroku #
 
-Vai all'[applicazione](https://floating-sands-18281.herokuapp.com/).
+Vai all'[applicazione](https://mysterious-wave-69855.herokuapp.com/).
